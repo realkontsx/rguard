@@ -1,2 +1,5 @@
 195.206.235.119
 176.43.101.134
+play.sonoyuncu.network
+185.29.120.107
+play.hypixel.net
